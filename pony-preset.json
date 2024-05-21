@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Pony",
+        "prompt": "score_9, score_8_up, score_7_up, {prompt}",
+        "negative_prompt": "score_6, score_5, score_4, pony, gaping, muscular, censored"
+    },
+    {
+        "name": "Pony explicit",
+        "prompt": "{prompt}, rating_explicit"
+    },
+    {
+        "name": "Pony Questionable",
+        "prompt": "{prompt}, rating_questionable"
+    },
+    {
+        "name": "Pony Photorealism",
+        "prompt": "{prompt}, (photorealism)"
+    }
+]
