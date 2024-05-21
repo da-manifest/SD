@@ -39,8 +39,7 @@
     "default_styles": [
         "Fooocus V2",
         "Pony",
-        "Pony Explicit",
-        "Pony Questionable"
+        "Pony Photorealism"
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
